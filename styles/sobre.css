@@ -1,0 +1,96 @@
+.textos{
+    margin-top: -480px;
+    text-align:center;
+    font: normal 20px arial;
+}
+.tamanho{
+    height:600px;
+    width: 1349px;
+}
+@media(min-width:375px) and (max-width:414px){/*Iphones6,7,8*/
+    .tamanho{
+        height:608px;
+        width:375px;
+    } 
+    .textos{
+        margin-top: -480px;
+        text-align:left;
+        font: normal 20px arial;
+        margin-left: 10px;
+    }
+    #barra{
+        width:375px;
+    }
+    .logobarra{
+        margin-right:7.6rem;
+    }
+}
+@media(min-width:320px) and (max-width:360px){/*Maioria dos Androids*/
+    .tamanho{
+        height:608px;
+        width:360px;
+    } 
+    .textos{
+        margin-top: -480px;
+        text-align:left;
+        font: normal 20px arial;
+        margin-left: 10px;
+    }
+    #barra{
+        width:360px;
+    }
+    .logobarra{
+        margin-right:7.4rem;
+    }
+}
+@media (min-width: 411px) and (max-width: 767.98px){/*Maioria dos Androids maiores*/
+    .textos{
+        margin-top: -480px;
+        text-align:left;
+        font: normal 20px arial;
+        margin-left: 10px;
+    }
+    .tamanho{
+        height: 600px;
+        width: 411px;
+    }
+    #barra{
+        width:411px;
+    }
+    .logobarra{
+        margin-right:7.3rem;
+    }
+ }
+ @media (min-width:768px) and (max-width:769px){/*tablets*/
+    .textos{
+        margin-top: -480px;
+        text-align:left;
+        font: normal 20px arial;
+        margin-left: 10px;
+    }
+    .tamanho{
+        height: 600px;
+        width: 768px;
+    }
+    #barra{
+        width:768px;
+    }
+    .logobarra{
+        margin-right:10lem;
+    }
+ }
+ @media (min-width:1024px) and (max-width:1025px){/*tablets*/
+    .textos{
+        margin-top: -480px;
+        text-align:left;
+        font: normal 20px arial;
+        margin-left: 10px;
+    }
+    .tamanho{
+        height: 600px;
+        width:1024px;
+    }
+    #barra{
+        width:1024px;
+    }
+ }

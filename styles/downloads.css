@@ -1,0 +1,35 @@
+img.team{
+    margin: 8px;
+    width:150px;
+    height: 150px;
+    
+}
+p.Contato{
+    margin:7px;
+    font:normal 15px arial;
+    padding: 15px;
+    color:white;
+}
+img.win{
+    margin: 8px;
+    width:145px;
+    height: 145px;
+    
+}
+@media (max-width:576px) { 
+  #barra{
+      width:460px;
+  }
+  #barra2{
+      width:460px;
+  }
+   #tabela{
+       width: 460px;
+   } 
+   #alerta{
+       width: 460px;
+   }
+   .logobarra{
+    margin-right:221px;
+}
+ }

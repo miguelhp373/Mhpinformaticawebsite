@@ -1,0 +1,27 @@
+#botaosair{
+    margin-left:50px;
+    margin-top:-5px;
+    border-radius: 20px;
+}
+.logobarra{
+    margin-top: 1px;
+    margin-left: 1px;
+}
+@media(max-width: 576px){
+    .logobarra{
+        margin-right:280px;
+    }
+    #botaosair{
+        margin-left: 250px;
+        margin-top:-100px;
+    }
+    #barra{
+        width:auto;
+    }
+    #barra2{
+        width:auto;
+    }
+    #tam{
+        width:70px;
+        }
+}
