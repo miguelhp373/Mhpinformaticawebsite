@@ -1,31 +1,45 @@
 #f1,#f2,#f3,#f4{
     border-radius: 20px;
 }
-.areainfo{
-    width: 600px;
-    margin-left:366px;
-    text-align: center;
+#areainfo{
+    width: auto;
+    padding:10px;
+    display: flex;
+       flex-direction: column;
+       flex-wrap: nowrap;
+       justify-content: space-around;
+       margin: auto;
 }
 #linha{
     width: 100%;
     border-bottom: 1px solid black;
   }
+
+
 @media(max-width: 576px){
     #f1,#f2,#f3,#f4{
-        width:355px;
+        width:100%;
     }
     .logobarra{
         margin-right:7.4rem;
     }
-    .areainfo{
-        margin-left: -0px;
-        width: 360px;
+    #areainfo{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        margin: auto;
+        width: auto;
+ }
     }
-}
+
 @media (min-width:1024px) and (max-width:1025px){/*tablets*/
-    .areainfo{
-        width: 600px;
-        margin-left: 200px;
-        text-align: center;
-    }
+    #areainfo{
+        display: flex;
+       flex-direction: column;
+       flex-wrap: nowrap;
+       justify-content: space-around;
+       margin: auto;
+       width: auto;
 }
+    }

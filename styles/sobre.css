@@ -6,12 +6,12 @@
 .tamanho{
     margin-top: -16px;
     height:600px;
-    width: 1349px;
+    width: 100%;
 }
 @media(min-width:375px) and (max-width:414px){/*Iphones6,7,8*/
     .tamanho{
         height:608px;
-        width:375px;
+        width:100%;
     } 
     .textos{
         margin-top: -480px;
@@ -20,7 +20,7 @@
         margin-left: 10px;
     }
     #barra{
-        width:375px;
+        width:100%;
     }
     .logobarra{
         margin-right:7.6rem;
@@ -29,7 +29,7 @@
 @media(min-width:320px) and (max-width:360px){/*Maioria dos Androids*/
     .tamanho{
         height:608px;
-        width:360px;
+        width:100%;
     } 
     .textos{
         margin-top: -480px;
@@ -38,7 +38,7 @@
         margin-left: 10px;
     }
     #barra{
-        width:360px;
+        width:100%;
     }
     .logobarra{
         margin-right:7.4rem;
@@ -53,10 +53,10 @@
     }
     .tamanho{
         height: 600px;
-        width: 411px;
+        width:100%;
     }
     #barra{
-        width:411px;
+        width:100%;
     }
     .logobarra{
         margin-right:7.3rem;
@@ -71,10 +71,10 @@
     }
     .tamanho{
         height: 600px;
-        width: 768px;
+        width:100%;
     }
     #barra{
-        width:768px;
+        width:100%;
     }
     .logobarra{
         margin-right:10lem;
@@ -89,9 +89,9 @@
     }
     .tamanho{
         height: 600px;
-        width:1024px;
+        width:100%;
     }
     #barra{
-        width:1024px;
+        width:100%;
     }
  }
