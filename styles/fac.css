@@ -14,6 +14,27 @@
     width: 100%;
     border-bottom: 1px solid black;
   }
+  #contacts-area{
+        display: flex;
+       flex-direction: column;
+       flex-wrap: nowrap;
+       justify-content: center;
+       margin: auto;  
+  }
+  #btn-whats{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: auto;   
+  }
+  #informations-area{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin: auto;    
+  }
 
 
 @media(max-width: 576px){

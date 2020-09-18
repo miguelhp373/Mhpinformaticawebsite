@@ -16,6 +16,15 @@ img.win{
     height: 145px;
     
 }
+#content-downloads{
+    width: auto;
+    padding:7px;
+    display: flex;
+       flex-direction: column;
+       flex-wrap: nowrap;
+       justify-content: space-around;
+       margin: auto;
+}
 @media (max-width:576px) { 
   #barra{
       width:460px;
