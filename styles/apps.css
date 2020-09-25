@@ -1,8 +1,0 @@
-div.fundo{
-    height: 400px;
-  }
-  @media(max-width: 576px){
-    .logobarra{
-        margin-right:7.4rem;
-    }
-}
