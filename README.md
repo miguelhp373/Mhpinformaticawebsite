@@ -2,7 +2,7 @@
 	<img alt="Logo" src="https://github.com/miguelhp373/Mhpinformaticawebsite/blob/master/src/img/logo/logonova.jpg" width="200px" />
 </h1>
 
-<h2 >O que este app é:</h2>
+## O que este app é: :point_down:
 
 
 ## 👨🏻‍💻 Sobre o Projeto
