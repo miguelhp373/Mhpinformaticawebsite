@@ -2,10 +2,6 @@
 	<img alt="Logo" src="https://github.com/miguelhp373/Mhpinformaticawebsite/blob/master/src/img/logo/logonova.jpg" width="200px" />
 </h1>
 
-<h3 align="center">
-  MHP Informática
-</h3>
-
 <p align="center">O que este app é:</p>
 
     
