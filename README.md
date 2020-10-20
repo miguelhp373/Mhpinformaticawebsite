@@ -4,8 +4,6 @@
 
 <h2 align="center">O que este app é:</h2>
 
-    
-***
 
 ## 👨🏻‍💻 Sobre o Projeto
 Este é Um Site Informativo, e de Contato, com um Sitema Integrado de Gerenciamento de Ordens de Serviço de Informática!
